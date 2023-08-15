@@ -13,7 +13,7 @@
             "quantity": 5,
             "rating": 4.5,
             "out_of_stock": false,
-            "fast delivery": false
+            "fast_delivery": false
         },
         {
             "id": 2,
@@ -28,7 +28,7 @@
             "quantity": 7,
             "rating": 3.8,
             "out_of_stock": false,
-            "fast delivery": false
+            "fast_delivery": false
         },
         {
             "id": 3,
@@ -43,7 +43,7 @@
             "quantity": 8,
             "rating": 4.2,
             "out_of_stock": false,
-            "fast delivery": true
+            "fast_delivery": true
         },
         {
             "id": 4,
@@ -58,7 +58,7 @@
             "quantity": 0,
             "rating": 4.6,
             "out_of_stock": true,
-            "fast delivery": false
+            "fast_delivery": false
         },
         {
             "id": 5,
@@ -73,7 +73,7 @@
             "quantity": 0,
             "rating": 4.8,
             "out_of_stock": true,
-            "fast delivery": false
+            "fast_delivery": false
         },
         {
             "id": 6,
@@ -88,7 +88,7 @@
             "quantity": 6,
             "rating": 4.4,
             "out_of_stock": false,
-            "fast delivery": false
+            "fast_delivery": false
         },
         {
             "id": 7,
@@ -103,7 +103,7 @@
             "quantity": 5,
             "rating": 4.7,
             "out_of_stock": false,
-            "fast delivery": false
+            "fast_delivery": false
         },
         {
             "id": 8,
@@ -118,7 +118,7 @@
             "quantity": 7,
             "rating": 4.3,
             "out_of_stock": false,
-            "fast delivery": false
+            "fast_delivery": false
         },
         {
             "id": 9,
@@ -133,7 +133,7 @@
             "quantity": 6,
             "rating": 4.1,
             "out_of_stock": false,
-            "fast delivery": false
+            "fast_delivery": false
         },
         {
             "id": 10,
@@ -148,7 +148,7 @@
             "quantity": 6,
             "rating": 4.9,
             "out_of_stock": false,
-            "fast delivery": true
+            "fast_delivery": true
         },
         {
             "id": 11,
