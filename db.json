@@ -1,13 +1,4 @@
 {
-    "users" : [
-        {
-            "username" : "arbaz Shaikh",
-            "password" : "123",
-            "email" : "arbaz@gamil.com",
-            "mobile_number" : "8788614631",
-            "dob" : "19/04/1997"
-        }
-    ],
     "products": [
         {
             "id": 1,
