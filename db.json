@@ -1156,6 +1156,7 @@
             "fast_delivery": false
         }
     ],
+    "users" : [],
     "cart": [],
     "pagination": {
         "limit": 10,
